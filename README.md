@@ -13,13 +13,13 @@ The projects this year are as listed below along with project leads.
 ## Malaria (Android and iOS)
 Systers GHCOSD Lead: Nicki Hutchens
 
-### Project Description:
+#### Project Description:
 
 
-### Environment Setup:
+#### Environment Setup:
 
 
-### GHC15 OSD Tasks:
+#### GHC15 OSD Tasks:
 
 
 
@@ -28,14 +28,13 @@ Systers GHCOSD Lead: Nicki Hutchens
 ## Portal (Python/Django)
 Systers GHCOSD Lead: Ana Balica
 
-### Project Description:
+#### Project Description:
 
 
-### Environment Setup:
+#### Environment Setup:
 
 
-### GHC15 OSD Tasks:
-
+#### GHC15 OSD Tasks:
 
 
 
@@ -45,15 +44,13 @@ Systers GHCOSD Lead: Ana Balica
 Systers GHCOSD Lead: Alma Castillo
 
 
-### Project Description:
+#### Project Description:
 
 
-### Environment Setup:
+#### Environment Setup:
 
 
-### GHC15 OSD Tasks:
-
-
+#### GHC15 OSD Tasks:
 
 
 
@@ -63,13 +60,14 @@ Systers GHCOSD Lead: Alma Castillo
 Systers GHCOSD Lead: Ana Cutillas
 
 
-### Project Description:
+#### Project Description:
 
 
-### Environment Setup:
+#### Environment Setup:
 
 
-### GHC15 OSD Tasks:
+#### GHC15 OSD Tasks:
+
 
 
 
