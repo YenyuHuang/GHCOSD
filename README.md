@@ -6,6 +6,10 @@ This repo is for Grace Hopper Celebration (GHC) for Women in Technology Open Sou
 
 The projects this year are as listed below along with project leads. 
 
+
+
+
+
 ## Malaria (Android and iOS)
 Systers GHCOSD Lead: Nicki Hutchens
 
@@ -16,6 +20,9 @@ Systers GHCOSD Lead: Nicki Hutchens
 
 
 ### GHC15 OSD Tasks:
+
+
+
 
 
 ## Portal (Python/Django)
@@ -31,6 +38,9 @@ Systers GHCOSD Lead: Ana Balica
 
 
 
+
+
+
 ## PowerUp (Android)
 Systers GHCOSD Lead: Alma Castillo
 
@@ -42,6 +52,9 @@ Systers GHCOSD Lead: Alma Castillo
 
 
 ### GHC15 OSD Tasks:
+
+
+
 
 
 
