@@ -87,16 +87,36 @@ Systers GHCOSD Mentor: TBD
 #### Project Description:
 We've built several web and mobile applications for Peace Corps. We've also created a Mobile App Control Center (MACC) to push notifications and updates from web application to mobile app. However, the next phase in bringing all of the applications together is a Peace Corps Hub. 
 
-We have initial design of the web application from Qualcomm EmpowHerment Hackathon. Please visit the [http://devpost.com/software/pchub](winners' page) for initial design.
+We have initial design of the web application from Qualcomm EmpowHerment Hackathon. Please visit the [winners' page](http://devpost.com/software/pchub) for initial design.
 
-Skills desired or want to learn: Kohana PhP, RESTful API, PhP, Python or Ruby 
+Skills desired or want to learn: Python/Django, html, php
 
+(PCHub Repo)[https://github.com/systers/pchub]
 
 #### Environment Setup:
+The app-web-server server will host this application so please visit environment repo and choose [app-web-server](https://github.com/systers/app-web-server) for your environment setup.
 
+#### Resources
+[PCHub Winners site](http://devpost.com/software/pchub)
+[PCHub Detail Design Documentation](https://docs.google.com/presentation/d/1D_6P7iuT4En1I_R66iP0-BW9zEIvjs6khLF324Jia-M/edit#slide=id.g5baf8cfec_0_13)
+[PCHub Demo site](http://peacecorpshub.weebly.com/home.html)
 
 #### GHC15 OSD Tasks:
+1. Create css template as specified in detail design documentation.
+2. Create home page with access buttons.
+3. Create buttons to go to each application we've created for Peace Corps. See list below.
+ 
+##### Peace Corps apps
 
+###### Mobile Applications
+Malaria (Android)[https://github.com/systers/malaria-app-android], (iOS)[https://github.com/systers/malaria-app-ios] 
+PeaceTrack (Android)[https://github.com/systers/peacetrack-android], (iOS)[https://github.com/systers/peacetrack-ios] 
+Peace Corps Sexual Assault (Android)[https://github.com/systers/PCSA], (iOS) TBA
+
+###### Web Applications
+(Ushahidi)[https://github.com/systers/crowdmap]
+(Photo Language Translation)[https://github.com/systers/language-translation]
+(Mobile App Control Center)[https://github.com/systers/app-web-server]
 
 
 
