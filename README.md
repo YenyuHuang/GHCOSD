@@ -65,7 +65,7 @@ Skills desired or want to learn: Android and iOS (Swift).
 
 
 ## Crowdmap for Guyana (Ushahidi/)
-Systers GHCOSD Mentor: Julia Proft
+Systers GHCOSD Mentor: TBD
 
 
 #### Project Description:
@@ -80,7 +80,22 @@ Skills desired or want to learn: Kohana PhP, RESTful API, PhP, Python or Ruby
 #### GHC15 OSD Tasks:
 
 
+## Peace Corps Hub
+Systers GHCOSD Mentor: TBD
 
+
+#### Project Description:
+We've built several web and mobile applications for Peace Corps. We've also created a Mobile App Control Center (MACC) to push notifications and updates from web application to mobile app. However, the next phase in bringing all of the applications together is a Peace Corps Hub. 
+
+We have initial design of the web application from Qualcomm EmpowHerment Hackathon. Please visit the (winners' page)[http://devpost.com/software/pchub] for initial design.
+
+Skills desired or want to learn: Kohana PhP, RESTful API, PhP, Python or Ruby 
+
+
+#### Environment Setup:
+
+
+#### GHC15 OSD Tasks:
 
 
 
