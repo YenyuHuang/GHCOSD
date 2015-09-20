@@ -16,7 +16,7 @@ Systers GHCOSD Mentor: Nicki Hutchens
 #### Project Description:
 Malaria project is a gaming reminder mobile application designed to help Peace Corps volunteers in the prevention tactics. Prevention is focused on sustained use of preventive medications, which are taken either daily or weekly, depending on the medicine. The application features a reminder system; an ability to indicate that medication was taken on time or missed; the ability for the volunteer to track their usage history; a trip indicator to help remind volunteers to pack certain supplies to prevent malaria if they leave their home village; and an Info Hub that will provide accurate information about Malaria and the medications they are taking.
 
-Skills desired or want to learn: Android and iOS (Swift).
+Skills desired or want to learn: Android and iOS (Swift). 
 
 #### Environment Setup:
 
