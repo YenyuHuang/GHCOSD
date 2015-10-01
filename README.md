@@ -46,23 +46,46 @@ Skills desired or want to learn: Python3, Django, HTML, CSS
 
 
 ## PowerUp (Android)
-Systers GHCOSD Mentors: Ana Cutillas and Alma Castillo
+Systers GHCOSD Mentors: Ana Cutillas and Alma Castillo Antolin
 
 
 #### Project Description:
 Female Empowerment App called PowerUp. It would be an educational choose-your-own-adventure game that allows young girls (12 to 14) to learn about reproductive health and self-esteem by navigating the life of their avatar. Preadolescents struggle with self-esteem, which makes them vulnerable to peer and media influence. 
 
-Skills desired or want to learn: Android and iOS (Swift). 
+Skills desired or want to learn: Android. 
 
 
 #### Environment Setup:
-
+1. Make sure you have downloaded the latest version of [Android Studio](https://developer.android.com/sdk/index.html). It works on Linux, Windows and Mac. Download the correct version for your OS
+1. Go to [the project repo](https://github.com/systers/powerup-android/) and fork it by clicking "Fork" 
+1. If you are working on Windows, download [Git Bash for Windows](https://git-for-windows.github.io/) to get a full Unix bash with Git functionality
+1. Clone the repo to your desktop `git clone git@github.com:your_name/powerup-android.git`
+1. Open the project with Android Studio 
 
 #### GHC15 OSD Tasks:
+#####Beginner
+1. Create a documentation wiki
+1. Translate the game to another language
+1. Test for bugs
+1. Change app name to "Power Up"
+1. Reverse arrows in the creation room
+1. Remove "Continue" button from map
 
+#####Intermediate
+1. Adapt map layout buttons to tablet
+1. Add an "About" screen
+1. Improve the conversation boxes UI
+1. Develop a minigame-selection screen
+1. Remove Toast messages in the conversation
+1. Make back button go to the initial screen
 
+#####Advanced
+1. Show health and power values in the game UI
+1. Make the changing room open the first time the app starts
+1. Show points earned after finishing each scenario
 
-
+#####Design
+1. Develop clothes and accessories for avatars using Adobe Photoshop and/or Illustrator
 
 ## Crowdmap for Guyana (Ushahidi/)
 Systers GHCOSD Mentor: TBD
