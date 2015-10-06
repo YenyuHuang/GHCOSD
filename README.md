@@ -10,8 +10,8 @@ The projects this year are as listed below along with project leads.
 
 
 
-## Malaria (Android)
-Systers GHCOSD Mentor: Nicki Hutchens
+## Malaria (Android and iOS)
+Systers GHCOSD Mentor: Nicki Hutchens, Jessica Lam
 
 #### Project Description:
 Malaria project is a gaming reminder mobile application designed to help Peace Corps volunteers in the prevention tactics. Prevention is focused on sustained use of preventive medications, which are taken either daily or weekly, depending on the medicine. The application features a reminder system; an ability to indicate that medication was taken on time or missed; the ability for the volunteer to track their usage history; a trip indicator to help remind volunteers to pack certain supplies to prevent malaria if they leave their home village; and an Info Hub that will provide accurate information about Malaria and the medications they are taking.
@@ -27,13 +27,17 @@ Skills desired or want to learn: Android and iOS (Swift).
 
 
 
-## Portal (Python/Django)
+## Peace Corps Sexual Assault App (Android and iOS)
 Systers GHCOSD Mentor: Ana Balica
 
 #### Project Description:
-The portal project is Systers community portal created to help Systers community leaders organize, inform and engage their communities. The application was built on Python/Django framework. We are in the process of adding integrating Volunteer Management and meetup features so that leaders can manage volunteers, organize meetups and engage their members through social media.
+Peace Corps is committed to providing a compassionate and supportive response to all Volunteers who have been sexually assaulted. To that end, the Peace Corps makes the following commitment to our Volunteers who are victims of sexual assault.
 
-Skills desired or want to learn: Python3, Django, HTML, CSS
+This project is to support thsi initiative by creating a mobile app that PCVs can readily have accessible to report or gain information on Peace Corps Safety and Security procedures.
+
+The mobile application will be developed in both Android and iOS platforms.
+
+Skills desired or want to learn: Android or iOS
 
 
 #### Environment Setup:
@@ -45,7 +49,7 @@ Skills desired or want to learn: Python3, Django, HTML, CSS
 
 
 
-## PowerUp (Android)
+## PowerUp (Android or iOS)
 Systers GHCOSD Mentors: Ana Cutillas and Alma Castillo Antolin
 
 
