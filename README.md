@@ -23,7 +23,12 @@ Skills desired or want to learn: Android and iOS (Swift).
 
 #### GHC15 OSD Tasks:
 
-
+1. Improve integration with trip history.
+1. Add a feature to mark trip plan items.
+1. Add previous and next post buttons.
+1. Add left-right swipe navigation between posts.
+1. Create a new module for social network integration.
+1. Test sharing pill stats on Facebook/Twitter.
 
 
 
