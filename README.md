@@ -96,8 +96,8 @@ Skills desired or want to learn: Android.
 #####Design
 1. Develop clothes and accessories for avatars using Adobe Photoshop and/or Illustrator
 
-## Crowdmap for Guyana (Ushahidi/)
-Systers GHCOSD Mentor: TBD
+## Crowdmap for Guyana (Ushahidi)
+Systers GHCOSD Mentors: Julia Proft (remote from New London, CT) and Divya Upadhyay (remote from Patna, India)
 
 
 #### Project Description:
@@ -107,10 +107,16 @@ Skills desired or want to learn: Kohana PhP, RESTful API, PhP, Python or Ruby
 
 
 #### Environment Setup:
+The main Systers repository for Ushahidi is [crowdmap](https://github.com/systers/crowdmap), which can be downloaded and set up be following the instructions in the readme. Note that the code in that repository is tailored for a slightly different Systers project than the one described here (it was for a Peace Corps Azerbaijan deployment rather than a Peace Corps Guyana one), so in order to get the Guyana-specific code, you will need to use Divya's [Ushahidi-Guyana repository](https://github.com/divyaupadhyay/Ushahidi-Guyana). 
 
 
 #### GHC15 OSD Tasks:
-
+1. Create a logo for the project that can be used as a site header.
+2. Create an initial user guide to assist PCVs in using the site.
+3. Write a brief user guide for Google Glass based on [this video](https://youtu.be/0vGEr6h2jIY).
+3. Test features of the site and note any issues or difficulties.
+4. Create a button that allows PCVs to volunteer for an opportunity.
+5. Implement the back-end functionality for the volunteer button.
 
 ## Peace Corps Hub
 Systers GHCOSD Mentor: TBD
