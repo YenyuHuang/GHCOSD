@@ -119,8 +119,7 @@ The main Systers repository for Ushahidi is [crowdmap](https://github.com/syster
 5. Implement the back-end functionality for the volunteer button.
 
 ## Peace Corps Hub
-Systers GHCOSD Mentor: TBD
-
+Systers GHCOSD Mentor: Sandi Giver, Patrick Choquette, Gabe Krieshok, Sheila Campell
 
 #### Project Description:
 We've built several web and mobile applications for Peace Corps. We've also created a Mobile App Control Center (MACC) to push notifications and updates from web application to mobile app. However, the next phase in bringing all of the applications together is a Peace Corps Hub. 
