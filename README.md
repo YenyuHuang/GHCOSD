@@ -11,7 +11,7 @@ The projects this year are as listed below along with project leads.
 
 
 ## Malaria (Android and iOS)
-Systers GHCOSD Mentor: Nicki Hutchens, Jessica Lam
+Systers GHCOSD Mentor: Nicki Hutchens, Jessica Lam, Vedrana Jankovic
 
 #### Project Description:
 Malaria project is a gaming reminder mobile application designed to help Peace Corps volunteers in the prevention tactics. Prevention is focused on sustained use of preventive medications, which are taken either daily or weekly, depending on the medicine. The application features a reminder system; an ability to indicate that medication was taken on time or missed; the ability for the volunteer to track their usage history; a trip indicator to help remind volunteers to pack certain supplies to prevent malaria if they leave their home village; and an Info Hub that will provide accurate information about Malaria and the medications they are taking.
@@ -33,7 +33,7 @@ Skills desired or want to learn: Android and iOS (Swift).
 
 
 ## Peace Corps Sexual Assault App (Android and iOS)
-Systers GHCOSD Mentor: Ana Balica
+Systers GHCOSD Mentor: Ana Balica, Magali Boizot-Roche
 
 #### Project Description:
 Peace Corps is committed to providing a compassionate and supportive response to all Volunteers who have been sexually assaulted. To that end, the Peace Corps makes the following commitment to our Volunteers who are victims of sexual assault.
@@ -55,7 +55,7 @@ Skills desired or want to learn: Android or iOS
 
 
 ## PowerUp (Android or iOS)
-Systers GHCOSD Mentors: Ana Cutillas and Alma Castillo Antolin
+Systers GHCOSD Mentors: Ana Cutillas, Alma Castillo Antolin, Melania Galea
 
 
 #### Project Description:
