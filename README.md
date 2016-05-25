@@ -2,7 +2,7 @@
 
 This repo is for Grace Hopper Celebration (GHC) for Women in Technology Open Source Day (OSD) projects. 
 
-## GHC2015 projects
+## GHC2016 projects
 
 The projects this year are as listed below along with project leads. 
 
@@ -11,7 +11,7 @@ The projects this year are as listed below along with project leads.
 
 
 ## Malaria (Android and iOS)
-Systers GHCOSD Mentor: Nicki Hutchens, Jessica Lam, Vedrana Jankovic
+Systers GHCOSD Mentor: TBA
 
 #### Project Description:
 Malaria project is a gaming reminder mobile application designed to help Peace Corps volunteers in the prevention tactics. Prevention is focused on sustained use of preventive medications, which are taken either daily or weekly, depending on the medicine. The application features a reminder system; an ability to indicate that medication was taken on time or missed; the ability for the volunteer to track their usage history; a trip indicator to help remind volunteers to pack certain supplies to prevent malaria if they leave their home village; and an Info Hub that will provide accurate information about Malaria and the medications they are taking.
@@ -21,7 +21,7 @@ Skills desired or want to learn: Android and iOS (Swift).
 #### Environment Setup:
 
 
-#### GHC15 OSD Tasks:
+#### GHC16 OSD Tasks:
 
 1. Improve integration with trip history.
 1. Add a feature to mark trip plan items.
@@ -32,8 +32,8 @@ Skills desired or want to learn: Android and iOS (Swift).
 
 
 
-## Peace Corps Sexual Assault App (Android and iOS)
-Systers GHCOSD Mentor: Ana Balica, Magali Boizot-Roche
+## Peace Corps Safety App (Android and iOS)
+Systers GHCOSD Mentor: TBA
 
 #### Project Description:
 Peace Corps is committed to providing a compassionate and supportive response to all Volunteers who have been sexually assaulted. To that end, the Peace Corps makes the following commitment to our Volunteers who are victims of sexual assault.
@@ -48,14 +48,14 @@ Skills desired or want to learn: Android or iOS
 #### Environment Setup:
 
 
-#### GHC15 OSD Tasks:
+#### GHC16 OSD Tasks:
 
 
 
 
 
 ## PowerUp (Android or iOS)
-Systers GHCOSD Mentors: Ana Cutillas, Alma Castillo Antolin, Melania Galea
+Systers GHCOSD Mentors: TBA
 
 
 #### Project Description:
@@ -71,7 +71,7 @@ Skills desired or want to learn: Android.
 1. Clone the repo to your desktop `git clone git@github.com:your_name/powerup-android.git`
 1. Open the project with Android Studio 
 
-#### GHC15 OSD Tasks:
+#### GHC16 OSD Tasks:
 #####Beginner
 1. Create a documentation wiki
 1. Translate the game to another language
@@ -97,7 +97,7 @@ Skills desired or want to learn: Android.
 1. Develop clothes and accessories for avatars using Adobe Photoshop and/or Illustrator
 
 ## Crowdmap for Guyana (Ushahidi)
-Systers GHCOSD Mentors: Julia Proft (remote from New London, CT) and Divya Upadhyay (remote from Patna, India)
+Systers GHCOSD Mentors: TBA
 
 
 #### Project Description:
@@ -110,7 +110,7 @@ Skills desired or want to learn: Kohana PhP, RESTful API, PhP, Python or Ruby
 The main Systers repository for Ushahidi is [crowdmap](https://github.com/systers/crowdmap), which can be downloaded and set up be following the instructions in the readme. Note that the code in that repository is tailored for a slightly different Systers project than the one described here (it was for a Peace Corps Azerbaijan deployment rather than a Peace Corps Guyana one), so in order to get the Guyana-specific code, you will need to use Divya's [Ushahidi-Guyana repository](https://github.com/divyaupadhyay/Ushahidi-Guyana). 
 
 
-#### GHC15 OSD Tasks:
+#### GHC16 OSD Tasks:
 1. Create a logo for the project that can be used as a site header.
 2. Create an initial user guide to assist PCVs in using the site.
 3. Write a brief user guide for Google Glass based on [this video](https://youtu.be/0vGEr6h2jIY).
@@ -119,7 +119,7 @@ The main Systers repository for Ushahidi is [crowdmap](https://github.com/syster
 5. Implement the back-end functionality for the volunteer button.
 
 ## Peace Corps Hub
-Systers GHCOSD Mentor: Sandi Giver, Patrick Choquette, Gabe Krieshok, Sheila Campell
+Systers GHCOSD Mentor: TBA
 
 #### Project Description:
 We've built several web and mobile applications for Peace Corps. We've also created a Mobile App Control Center (MACC) to push notifications and updates from web application to mobile app. However, the next phase in bringing all of the applications together is a Peace Corps Hub. 
@@ -138,7 +138,7 @@ The app-web-server server will host this application so please visit environment
 [PCHub Detail Design Documentation](https://docs.google.com/presentation/d/1D_6P7iuT4En1I_R66iP0-BW9zEIvjs6khLF324Jia-M/edit#slide=id.g5baf8cfec_0_13)
 [PCHub Demo site](http://peacecorpshub.weebly.com/home.html)
 
-#### GHC15 OSD Tasks:
+#### GHC16 OSD Tasks:
 1. Create css template as specified in detail design documentation.
 2. Create home page with access buttons.
 3. Create buttons to go to each application we've created for Peace Corps. See list below.
